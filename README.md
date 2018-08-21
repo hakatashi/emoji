@@ -2,75 +2,81 @@
 
 Emoji created by hakatashi
 
+## License
+
+[Creative Commons Zero v1.0 Universal](LICENSE)
+
+## Emojis
+
 `:akan:` | `:black:` | `:chaunen:` | `:damejan:`
 :-: | :-: | :-: | :-:
-[![](images/akan.png)](images/akan.png) | [![](images/black.png)](images/black.png) | [![](images/chaunen.png)](images/chaunen.png) | [![](images/damejan.png)](images/damejan.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/akan.png)](https://github.com/hakatashi/emoji/raw/master/images/akan.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/black.png)](https://github.com/hakatashi/emoji/raw/master/images/black.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/chaunen.png)](https://github.com/hakatashi/emoji/raw/master/images/chaunen.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/damejan.png)](https://github.com/hakatashi/emoji/raw/master/images/damejan.png)
 
 `:gouhou:` | `:ihou:` | `:isshu:` | `:ryoukai:`
 :-: | :-: | :-: | :-:
-[![](images/gouhou.png)](images/gouhou.png) | [![](images/ihou.png)](images/ihou.png) | [![](images/isshu.png)](images/isshu.png) | [![](images/ryoukai.png)](images/ryoukai.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/gouhou.png)](https://github.com/hakatashi/emoji/raw/master/images/gouhou.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/ihou.png)](https://github.com/hakatashi/emoji/raw/master/images/ihou.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/isshu.png)](https://github.com/hakatashi/emoji/raw/master/images/isshu.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/ryoukai.png)](https://github.com/hakatashi/emoji/raw/master/images/ryoukai.png)
 
 `:kowai:` | `:maa:` | `:medetai:` | `:nandane:`
 :-: | :-: | :-: | :-:
-[![](images/kowai.png)](images/kowai.png) | [![](images/maa.png)](images/maa.png) | [![](images/medetai.png)](images/medetai.png) | [![](images/nandane.png)](images/nandane.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/kowai.png)](https://github.com/hakatashi/emoji/raw/master/images/kowai.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/maa.png)](https://github.com/hakatashi/emoji/raw/master/images/maa.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/medetai.png)](https://github.com/hakatashi/emoji/raw/master/images/medetai.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/nandane.png)](https://github.com/hakatashi/emoji/raw/master/images/nandane.png)
 
 `:saikou:` | `:seyaroka:` | `:shumi:` | `:sonnani:`
 :-: | :-: | :-: | :-:
-[![](images/saikou.png)](images/saikou.png) | [![](images/seyaroka.png)](images/seyaroka.png) | [![](images/shumi.png)](images/shumi.png) | [![](images/sonnani.png)](images/sonnani.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/saikou.png)](https://github.com/hakatashi/emoji/raw/master/images/saikou.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/seyaroka.png)](https://github.com/hakatashi/emoji/raw/master/images/seyaroka.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/shumi.png)](https://github.com/hakatashi/emoji/raw/master/images/shumi.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/sonnani.png)](https://github.com/hakatashi/emoji/raw/master/images/sonnani.png)
 
 `:sorasouyo:` | `:sorehasou:` | `:sorehauso:`
 :-: | :-: | :-:
-[![](images/sorasouyo.png)](images/sorasouyo.png) | [![](images/sorehasou.png)](images/sorehasou.png) | [![](images/sorehauso.png)](images/sorehauso.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/sorasouyo.png)](https://github.com/hakatashi/emoji/raw/master/images/sorasouyo.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/sorehasou.png)](https://github.com/hakatashi/emoji/raw/master/images/sorehasou.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/sorehauso.png)](https://github.com/hakatashi/emoji/raw/master/images/sorehauso.png)
 
 `:yakuza:` | `:ha:` | `:yatta-:` | `:yurusan:`
 :-: | :-: | :-: | :-:
-[![](images/yakuza.png)](images/yakuza.png) | [![](images/ha.png)](images/ha.png) | [![](images/yatta-.png)](images/yatta-.png) | [![](images/yurusan.png)](images/yurusan.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/yakuza.png)](https://github.com/hakatashi/emoji/raw/master/images/yakuza.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/ha.png)](https://github.com/hakatashi/emoji/raw/master/images/ha.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/yatta-.png)](https://github.com/hakatashi/emoji/raw/master/images/yatta-.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/yurusan.png)](https://github.com/hakatashi/emoji/raw/master/images/yurusan.png)
 
 `:otsu:` | `:kami:` | `:moe:` | `:yami:`
 :-: | :-: | :-: | :-:
-[![](images/otsu.png)](images/otsu.png) | [![](images/kami.png)](images/kami.png) | [![](images/moe.png)](images/moe.png) | [![](images/yami.png)](images/yami.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/otsu.png)](https://github.com/hakatashi/emoji/raw/master/images/otsu.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/kami.png)](https://github.com/hakatashi/emoji/raw/master/images/kami.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/moe.png)](https://github.com/hakatashi/emoji/raw/master/images/moe.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/yami.png)](https://github.com/hakatashi/emoji/raw/master/images/yami.png)
 
 `:jimei:` | `:hijimei:` | `:hayakunero:` | `:hoge:`
 :-: | :-: | :-: | :-:
-[![](images/jimei.png)](images/jimei.png) | [![](images/hijimei.png)](images/hijimei.png) | [![](images/hayakunero.png)](images/hayakunero.png) | [![](images/hoge.png)](images/hoge.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/jimei.png)](https://github.com/hakatashi/emoji/raw/master/images/jimei.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/hijimei.png)](https://github.com/hakatashi/emoji/raw/master/images/hijimei.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/hayakunero.png)](https://github.com/hakatashi/emoji/raw/master/images/hayakunero.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/hoge.png)](https://github.com/hakatashi/emoji/raw/master/images/hoge.png)
 
 `:kachi:` | `:korosuzo:` | `:naguru:` | `:nya-n:`
 :-: | :-: | :-: | :-:
-[![](images/kachi.png)](images/kachi.png) | [![](images/korosuzo.png)](images/korosuzo.png) | [![](images/naguru.png)](images/naguru.png) | [![](images/nya-n.png)](images/nya-n.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/kachi.png)](https://github.com/hakatashi/emoji/raw/master/images/kachi.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/korosuzo.png)](https://github.com/hakatashi/emoji/raw/master/images/korosuzo.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/naguru.png)](https://github.com/hakatashi/emoji/raw/master/images/naguru.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/nya-n.png)](https://github.com/hakatashi/emoji/raw/master/images/nya-n.png)
 
 `:toshi:` | `:waiwai:` | `:wakarazu:` | `:modoshite:`
 :-: | :-: | :-: | :-:
-[![](images/toshi.png)](images/toshi.png) | [![](images/waiwai.png)](images/waiwai.png) | [![](images/wakarazu.png)](images/wakarazu.png) | [![](images/modoshite.png)](images/modoshite.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/toshi.png)](https://github.com/hakatashi/emoji/raw/master/images/toshi.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/waiwai.png)](https://github.com/hakatashi/emoji/raw/master/images/waiwai.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/wakarazu.png)](https://github.com/hakatashi/emoji/raw/master/images/wakarazu.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/modoshite.png)](https://github.com/hakatashi/emoji/raw/master/images/modoshite.png)
 
 `:i:` | `:suramu:` | `:na:` | `:masute:`
 :-: | :-: | :-: | :-:
-[![](images/i.png)](images/i.png) | [![](images/suramu.png)](images/suramu.png) | [![](images/na.png)](images/na.png) | [![](images/masute.png)](images/masute.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/i.png)](https://github.com/hakatashi/emoji/raw/master/images/i.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/suramu.png)](https://github.com/hakatashi/emoji/raw/master/images/suramu.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/na.png)](https://github.com/hakatashi/emoji/raw/master/images/na.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/masute.png)](https://github.com/hakatashi/emoji/raw/master/images/masute.png)
 
 `:kakkoii:` | `:kakko-warai:` | `:wasshoi:` | `:zyousiki-desu:`
 :-: | :-: | :-: | :-:
-[![](images/kakkoii.png)](images/kakkoii.png) | [![](images/kakko-warai.png)](images/kakko-warai.png) | [![](images/wasshoi.png)](images/wasshoi.png) | [![](images/zyousiki-desu.png)](images/zyousiki-desu.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/kakkoii.png)](https://github.com/hakatashi/emoji/raw/master/images/kakkoii.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/kakko-warai.png)](https://github.com/hakatashi/emoji/raw/master/images/kakko-warai.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/wasshoi.png)](https://github.com/hakatashi/emoji/raw/master/images/wasshoi.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/zyousiki-desu.png)](https://github.com/hakatashi/emoji/raw/master/images/zyousiki-desu.png)
 
 `:chian-ga-warui:` | `:chian-ga-nai:` | `:yarudake:`
 :-: | :-: | :-:
-[![](images/chian-ga-warui.png)](images/chian-ga-warui.png) | [![](images/chian-ga-nai.png)](images/chian-ga-nai.png) | [![](images/yarudake.png)](images/yarudake.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/chian-ga-warui.png)](https://github.com/hakatashi/emoji/raw/master/images/chian-ga-warui.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/chian-ga-nai.png)](https://github.com/hakatashi/emoji/raw/master/images/chian-ga-nai.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/yarudake.png)](https://github.com/hakatashi/emoji/raw/master/images/yarudake.png)
 
 `:contradiction:` | `:tautology:` | `:de:` | `:baka:`
 :-: | :-: | :-: | :-:
-[![](images/contradiction.png)](images/contradiction.png) | [![](images/tautology.png)](images/tautology.png) | [![](images/de.png)](images/de.png) | [![](images/baka.png)](images/baka.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/contradiction.png)](https://github.com/hakatashi/emoji/raw/master/images/contradiction.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/tautology.png)](https://github.com/hakatashi/emoji/raw/master/images/tautology.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/de.png)](https://github.com/hakatashi/emoji/raw/master/images/de.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/baka.png)](https://github.com/hakatashi/emoji/raw/master/images/baka.png)
 
 `:ac:` | `:wj:` | `:re:` | `:ce:`
 :-: | :-: | :-: | :-:
-[![](images/ac.png)](images/ac.png) | [![](images/wj.png)](images/wj.png) | [![](images/re.png)](images/re.png) | [![](images/ce.png)](images/ce.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/ac.png)](https://github.com/hakatashi/emoji/raw/master/images/ac.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/wj.png)](https://github.com/hakatashi/emoji/raw/master/images/wj.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/re.png)](https://github.com/hakatashi/emoji/raw/master/images/re.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/ce.png)](https://github.com/hakatashi/emoji/raw/master/images/ce.png)
 
 `:tle:` | `:mle:` | `:wa:`
 :-: | :-: | :-:
-[![](images/tle.png)](images/tle.png) | [![](images/mle.png)](images/mle.png) | [![](images/wa.png)](images/wa.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/tle.png)](https://github.com/hakatashi/emoji/raw/master/images/tle.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/mle.png)](https://github.com/hakatashi/emoji/raw/master/images/mle.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/wa.png)](https://github.com/hakatashi/emoji/raw/master/images/wa.png)
 
 `:aoriika:` | `:shirimetsuretsu:`
 :-: | :-:
-[![](images/aoriika.png)](images/aoriika.png) | [![](images/shirimetsuretsu.png)](images/shirimetsuretsu.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/aoriika.png)](https://github.com/hakatashi/emoji/raw/master/images/aoriika.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/shirimetsuretsu.png)](https://github.com/hakatashi/emoji/raw/master/images/shirimetsuretsu.png)
 
 `:awajishima:` | `:biwako:` | `:sadogashima:`
 :-: | :-: | :-:
-[![](images/awajishima.png)](images/awajishima.png) | [![](images/biwako.png)](images/biwako.png) | [![](images/sadogashima.png)](images/sadogashima.png)
+[![](https://github.com/hakatashi/emoji/raw/master/images/awajishima.png)](https://github.com/hakatashi/emoji/raw/master/images/awajishima.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/biwako.png)](https://github.com/hakatashi/emoji/raw/master/images/biwako.png) | [![](https://github.com/hakatashi/emoji/raw/master/images/sadogashima.png)](https://github.com/hakatashi/emoji/raw/master/images/sadogashima.png)
 
