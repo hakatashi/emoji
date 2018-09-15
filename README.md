@@ -29,11 +29,11 @@ Emoji created by hakatashi
 [![](images/sorasouyo.png)](https://github.com/hakatashi/emoji/raw/master/images/sorasouyo.png) | [![](images/sorehasou.png)](https://github.com/hakatashi/emoji/raw/master/images/sorehasou.png) | [![](images/sorehauso.png)](https://github.com/hakatashi/emoji/raw/master/images/sorehauso.png)
 
 `:yakuza:` | `:yatta-:` | `:yurusan:`
-:-: | :-: | :-: | :-:
+:-: | :-: | :-: 
 [![](images/yakuza.png)](https://github.com/hakatashi/emoji/raw/master/images/yakuza.png) | [![](images/yatta-.png)](https://github.com/hakatashi/emoji/raw/master/images/yatta-.png) | [![](images/yurusan.png)](https://github.com/hakatashi/emoji/raw/master/images/yurusan.png)
 
 `:otsu:` | `:kami:` | `:moe:` | `:ha:`
-:-: | :-: | :-:
+:-: | :-: | :-: | :-:
 [![](images/otsu.png)](https://github.com/hakatashi/emoji/raw/master/images/otsu.png) | [![](images/kami.png)](https://github.com/hakatashi/emoji/raw/master/images/kami.png) | [![](images/moe.png)](https://github.com/hakatashi/emoji/raw/master/images/moe.png) | [![](images/ha.png)](https://github.com/hakatashi/emoji/raw/master/images/ha.png)
 
 `:yami:` | `:ya:`
