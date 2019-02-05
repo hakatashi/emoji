@@ -45,7 +45,7 @@ Emoji created by hakatashi
 [![](images/kowa.png)](https://github.com/hakatashi/emoji/raw/master/images/kowa.png) | [![](images/ikku.png)](https://github.com/hakatashi/emoji/raw/master/images/ikku.png) | [![](images/noushi.png)](https://github.com/hakatashi/emoji/raw/master/images/noushi.png)
 
 `:otsu:` | `:kami:` | `:moe:` | `:ha:`
-:-: | :-: | :-:
+:-: | :-: | :-: | :-:
 [![](images/otsu.png)](https://github.com/hakatashi/emoji/raw/master/images/otsu.png) | [![](images/kami.png)](https://github.com/hakatashi/emoji/raw/master/images/kami.png) | [![](images/moe.png)](https://github.com/hakatashi/emoji/raw/master/images/moe.png) | [![](images/ha.png)](https://github.com/hakatashi/emoji/raw/master/images/ha.png)
 
 `:yami:` | `:ya:`
