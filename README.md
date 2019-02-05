@@ -24,13 +24,25 @@ Emoji created by hakatashi
 :-: | :-: | :-: | :-:
 [![](images/saikou.png)](https://github.com/hakatashi/emoji/raw/master/images/saikou.png) | [![](images/seyaroka.png)](https://github.com/hakatashi/emoji/raw/master/images/seyaroka.png) | [![](images/shumi.png)](https://github.com/hakatashi/emoji/raw/master/images/shumi.png) | [![](images/sonnani.png)](https://github.com/hakatashi/emoji/raw/master/images/sonnani.png)
 
-`:sorasouyo:` | `:sorehasou:` | `:sorehauso:`
-:-: | :-: | :-:
-[![](images/sorasouyo.png)](https://github.com/hakatashi/emoji/raw/master/images/sorasouyo.png) | [![](images/sorehasou.png)](https://github.com/hakatashi/emoji/raw/master/images/sorehasou.png) | [![](images/sorehauso.png)](https://github.com/hakatashi/emoji/raw/master/images/sorehauso.png)
-
-`:yakuza:` | `:yatta-:` | `:yurusan:`
+`:sorasouyo:` | `:sorehasou:` | `:sorehauso:` | `:hototogisu:`
 :-: | :-: | :-: | :-:
-[![](images/yakuza.png)](https://github.com/hakatashi/emoji/raw/master/images/yakuza.png) | [![](images/yatta-.png)](https://github.com/hakatashi/emoji/raw/master/images/yatta-.png) | [![](images/yurusan.png)](https://github.com/hakatashi/emoji/raw/master/images/yurusan.png)
+[![](images/sorasouyo.png)](https://github.com/hakatashi/emoji/raw/master/images/sorasouyo.png) | [![](images/sorehasou.png)](https://github.com/hakatashi/emoji/raw/master/images/sorehasou.png) | [![](images/sorehauso.png)](https://github.com/hakatashi/emoji/raw/master/images/sorehauso.png) | [![](images/hototogisu.png)](https://github.com/hakatashi/emoji/raw/master/images/hototogisu.png)
+
+`:sirankedo:` | `:sirangana:`
+:-: | :-:
+[![](images/sirankedo.png)](https://github.com/hakatashi/emoji/raw/master/images/sirankedo.png) | [![](images/sirangana.png)](https://github.com/hakatashi/emoji/raw/master/images/sirangana.png)
+
+`:yakuza:` | `:yatta-:` | `:yurusan:` | `:yusho:`
+:-: | :-: | :-: | :-:
+[![](images/yakuza.png)](https://github.com/hakatashi/emoji/raw/master/images/yakuza.png) | [![](images/yatta-.png)](https://github.com/hakatashi/emoji/raw/master/images/yatta-.png) | [![](images/yurusan.png)](https://github.com/hakatashi/emoji/raw/master/images/yurusan.png) | [![](images/yusho.png)](https://github.com/hakatashi/emoji/raw/master/images/yusho.png)
+
+`:shoki-ka:` | `:ee:` | `:guchol:` | `:ho-:`
+:-: | :-: | :-: | :-:
+[![](images/shoki-ka.png)](https://github.com/hakatashi/emoji/raw/master/images/shoki-ka.png) | [![](images/ee.png)](https://github.com/hakatashi/emoji/raw/master/images/ee.png) | [![](images/guchol.png)](https://github.com/hakatashi/emoji/raw/master/images/guchol.png) | [![](images/ho-.png)](https://github.com/hakatashi/emoji/raw/master/images/ho-.png)
+
+`:kowa:` | `:ikku:` | `:noushi:`
+:-: | :-: | :-:
+[![](images/kowa.png)](https://github.com/hakatashi/emoji/raw/master/images/kowa.png) | [![](images/ikku.png)](https://github.com/hakatashi/emoji/raw/master/images/ikku.png) | [![](images/noushi.png)](https://github.com/hakatashi/emoji/raw/master/images/noushi.png)
 
 `:otsu:` | `:kami:` | `:moe:` | `:ha:`
 :-: | :-: | :-:
@@ -76,6 +88,10 @@ Emoji created by hakatashi
 :-: | :-: | :-: | :-:
 [![](images/contradiction.png)](https://github.com/hakatashi/emoji/raw/master/images/contradiction.png) | [![](images/tautology.png)](https://github.com/hakatashi/emoji/raw/master/images/tautology.png) | [![](images/de.png)](https://github.com/hakatashi/emoji/raw/master/images/de.png) | [![](images/baka.png)](https://github.com/hakatashi/emoji/raw/master/images/baka.png)
 
+`:wakannaindesu:` | `:esolang:`
+:-: | :-:
+[![](images/wakannaindesu.png)](https://github.com/hakatashi/emoji/raw/master/images/wakannaindesu.png) | [![](images/esolang.png)](https://github.com/hakatashi/emoji/raw/master/images/esolang.png)
+
 `:ac:` | `:wj:` | `:re:` | `:ce:`
 :-: | :-: | :-: | :-:
 [![](images/ac.png)](https://github.com/hakatashi/emoji/raw/master/images/ac.png) | [![](images/wj.png)](https://github.com/hakatashi/emoji/raw/master/images/wj.png) | [![](images/re.png)](https://github.com/hakatashi/emoji/raw/master/images/re.png) | [![](images/ce.png)](https://github.com/hakatashi/emoji/raw/master/images/ce.png)
@@ -88,7 +104,6 @@ Emoji created by hakatashi
 :-: | :-:
 [![](images/aoriika.png)](https://github.com/hakatashi/emoji/raw/master/images/aoriika.png) | [![](images/shirimetsuretsu.png)](https://github.com/hakatashi/emoji/raw/master/images/shirimetsuretsu.png)
 
-`:awajishima:` | `:biwako:` | `:sadogashima:`
-:-: | :-: | :-:
-[![](images/awajishima.png)](https://github.com/hakatashi/emoji/raw/master/images/awajishima.png) | [![](images/biwako.png)](https://github.com/hakatashi/emoji/raw/master/images/biwako.png) | [![](images/sadogashima.png)](https://github.com/hakatashi/emoji/raw/master/images/sadogashima.png)
-
+`:awajishima:` | `:biwako:` | `:sadogashima:` | `:void:`
+:-: | :-: | :-: | :-:
+[![](images/awajishima.png)](https://github.com/hakatashi/emoji/raw/master/images/awajishima.png) | [![](images/biwako.png)](https://github.com/hakatashi/emoji/raw/master/images/biwako.png) | [![](images/sadogashima.png)](https://github.com/hakatashi/emoji/raw/master/images/sadogashima.png) | [![](images/void.png)](https://github.com/hakatashi/emoji/raw/master/images/void.png)
