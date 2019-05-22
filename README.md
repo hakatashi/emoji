@@ -100,10 +100,6 @@ Emoji created by hakatashi
 :-: | :-: | :-:
 [![](images/tle.png)](https://github.com/hakatashi/emoji/raw/master/images/tle.png) | [![](images/mle.png)](https://github.com/hakatashi/emoji/raw/master/images/mle.png) | [![](images/wa.png)](https://github.com/hakatashi/emoji/raw/master/images/wa.png)
 
-`:aoriika:` | `:shirimetsuretsu:`
-:-: | :-:
-[![](images/aoriika.png)](https://github.com/hakatashi/emoji/raw/master/images/aoriika.png) | [![](images/shirimetsuretsu.png)](https://github.com/hakatashi/emoji/raw/master/images/shirimetsuretsu.png)
-
 `:awajishima:` | `:biwako:` | `:sadogashima:` | `:void:`
 :-: | :-: | :-: | :-:
 [![](images/awajishima.png)](https://github.com/hakatashi/emoji/raw/master/images/awajishima.png) | [![](images/biwako.png)](https://github.com/hakatashi/emoji/raw/master/images/biwako.png) | [![](images/sadogashima.png)](https://github.com/hakatashi/emoji/raw/master/images/sadogashima.png) | [![](images/void.png)](https://github.com/hakatashi/emoji/raw/master/images/void.png)
