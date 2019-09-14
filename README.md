@@ -72,9 +72,17 @@ Emoji created by hakatashi
 :-: | :-: | :-: | :-:
 [![](images/kakkoii.png)](https://github.com/hakatashi/emoji/raw/master/images/kakkoii.png) | [![](images/kakko-warai.png)](https://github.com/hakatashi/emoji/raw/master/images/kakko-warai.png) | [![](images/wasshoi.png)](https://github.com/hakatashi/emoji/raw/master/images/wasshoi.png) | [![](images/zyousiki-desu.png)](https://github.com/hakatashi/emoji/raw/master/images/zyousiki-desu.png)
 
-`:chian-ga-warui:` | `:chian-ga-nai:` | `:yarudake:`
-:-: | :-: | :-:
-[![](images/chian-ga-warui.png)](https://github.com/hakatashi/emoji/raw/master/images/chian-ga-warui.png) | [![](images/chian-ga-nai.png)](https://github.com/hakatashi/emoji/raw/master/images/chian-ga-nai.png) | [![](images/yarudake.png)](https://github.com/hakatashi/emoji/raw/master/images/yarudake.png)
+`:chian-ga-warui:` | `:chian-ga-nai:` | `:yarudake:` | `:aichikenkei:`
+:-: | :-: | :-: | :-:
+[![](images/chian-ga-warui.png)](https://github.com/hakatashi/emoji/raw/master/images/chian-ga-warui.png) | [![](images/chian-ga-nai.png)](https://github.com/hakatashi/emoji/raw/master/images/chian-ga-nai.png) | [![](images/yarudake.png)](https://github.com/hakatashi/emoji/raw/master/images/yarudake.png) | [![](images/aichikenkei.png)](https://github.com/hakatashi/emoji/raw/master/images/aichikenkei.png)
+
+`:kaishaku-chigai:` | `:neko:` | `:rhyme:` | `:sugoi:`
+:-: | :-: | :-: | :-:
+[![](images/kaishaku-chigai.png)](https://github.com/hakatashi/emoji/raw/master/images/kaishaku-chigai.png) | [![](images/neko.png)](https://github.com/hakatashi/emoji/raw/master/images/neko.png) | [![](images/rhyme.png)](https://github.com/hakatashi/emoji/raw/master/images/rhyme.png) | [![](images/sugoi.png)](https://github.com/hakatashi/emoji/raw/master/images/sugoi.png)
+
+`:sou:` | `:uso:`
+:-: | :-:
+[![](images/sou.png)](https://github.com/hakatashi/emoji/raw/master/images/sou.png) | [![](images/uso.png)](https://github.com/hakatashi/emoji/raw/master/images/uso.png)
 
 `:0ri-aru:` | `:1ri-aru:` | `:2ri-aru:` | `:3ri-aru:`
 :-: | :-: | :-: | :-:
