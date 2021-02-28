@@ -13,7 +13,8 @@ for ((i = 0; i < ${#images[@]}; i += 4)); do
   seperators=($(for f in ${files[@]}; do echo ':-:'; done))
   seperator_columns=$(printf " | %s" "${seperators[@]}")
 
-  imgs=($(for f in ${files[@]}; do echo "[![]($f)](https://cdn.jsdelivr.net/gh/hakatashi/emoji@master/$f)"; done))
+  img_urls=($(for f in ${files[@]}; do echo "https://cdn.jsdelivr.net/gh/hakatashi/emoji@master/$f"; done))
+  imgs=($(for f in ${img_urls[@]}; do echo "[![]($f)]($f)"; done))
   img_columns=$(printf " | %s" "${imgs[@]}")
 
   echo ${columns:3}
