@@ -13,7 +13,7 @@ for ((i = 0; i < ${#images[@]}; i += 4)); do
   seperators=($(for f in ${files[@]}; do echo ':-:'; done))
   seperator_columns=$(printf " | %s" "${seperators[@]}")
 
-  imgs=($(for f in ${files[@]}; do echo "[![]($f)](https://github.com/hakatashi/emoji/raw/master/$f)"; done))
+  imgs=($(for f in ${files[@]}; do echo "[![]($f)](https://cdn.jsdelivr.net/gh/hakatashi/emoji@master/$f)"; done))
   img_columns=$(printf " | %s" "${imgs[@]}")
 
   echo ${columns:3}
